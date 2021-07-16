@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES6", //编译后js版本
+        "module": "ES6", //编译后模块导入导出版本
+        "strict": true, //开启严格检查，一般都开启
+        "noEmitOnError": true
+    }
+}
